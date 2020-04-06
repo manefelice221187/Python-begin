@@ -1,5 +1,5 @@
 """
-tuplas
+tuplas en Codigo facilito
 """
 
 tupla = (1,2,"Mane", 15.22)
