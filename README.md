@@ -1,2 +1,2 @@
 # Python-begin
-Primeros programas de Python
+Primeros programas/pasos de la programación Python
